@@ -5,7 +5,7 @@
 # Hey there, I'm Muhammet Ali 👋
 
 <a href="https://github.com/Frexxis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=680&lines=Building+tools+%26+automation+that+actually+ship;Python+%7C+TypeScript+%7C+Rust+%7C+Flutter;CLIs%2C+AI-assisted+workflows%2C+multi-tenant+systems;Based+in+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=680&lines=Co-Founder+%40+Falorin%2C+Inc.;Lookila+%7C+Nexite+%7C+Renov;AI+native+products%2C+everything+for+Falorin;Based+in+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,7 +17,7 @@
 @@  > status      : focusing                                @@
 @@  > mode        : ship small, ship often                  @@
 @@  > coffee      : probably                                @@
-@@  > next        : something that actually helps someone   @@
+@@  > mantra     : everything for Falorin                 @@
 + ═══════════════════════════════════════════════════════════ +
 ```
 
@@ -25,11 +25,12 @@
 
 ## About Me
 
+- 🏢 **Co-Founder** at [Falorin, Inc.](https://www.falorin.co/) — AI-native software company
 - 🏠 **Based in** Turkey 🇹🇷
-- 🔧 **Focus:** Developer tools, automation, AI-assisted workflows
-- 🚀 **Building:** CLIs (SuperDroid), multi-tenant platforms (Renov), Hyprland configs (hyprod)
-- 💡 **Believe in:** Practical tooling, clear contracts, fail-closed security
-- 💬 **Ask me about:** Python, TypeScript, Rust, automation, DX, white-label SaaS
+- 🔧 **Focus:** AI products, platform engineering, developer tools
+- 🚀 **Building:** Lookila, Nexite, Renov (all Falorin)
+- 💡 **Mission:** Democratize AI — let everyone create digital products
+- 💬 **Ask me about:** Python, TypeScript, Flutter, AI platforms, white-label SaaS
 
 ---
 
@@ -50,29 +51,22 @@
 ## What I'm Up To
 
 ```yaml
-current:
-  - SuperDroid: AI-enhanced dev framework / Factory Droid CLI
-  - Renov: True white-label app platform (multi-tenant, BYOK)
-  - hyprod: Hyprland dotfiles & config
-
-learning:
-  - Deeper Rust (cli tooling, async)
-  - Flutter / mobile DX
-
-fun:
-  - Tinkering with window managers (Hyprland)
-  - Automation that saves time
+ Falorin:
+   Lookila: Turkey's AI search engine (answer engine)
+   Nexite: Design-first AI dev platform (prompt-to-app)
+   Renov: White-label app platform (multi-tenant)
+ learning: Rust, Flutter, AI agents
 ```
 
 ---
 
-## Featured Projects
+## Falorin Products
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**SuperDroid**](https://github.com/Frexxis/SuperDroid) | AI-enhanced development framework for Factory Droid CLI — 30 commands, 20 droids, 7 modes | Python |
-| [**ALwrity**](https://github.com/Frexxis/ALwrity) | AI-powered multimodal content creation & digital marketing platform (fork) | Python |
-| [**hyprod**](https://github.com/Frexxis/hyprod) | Hyprland configuration and dotfiles project | QML |
+| Product | What it is |
+|---------|------------|
+| [**Lookila**](https://www.falorin.co/) | AI search engine for Turkey — answer engine, Turkish-first, no ad clutter |
+| [**Nexite**](https://www.falorin.co/) | Design-first AI dev platform — browser-based, production-ready UI from prompts |
+| **Renov** | White-label mobile app platform — multi-tenant, BYOK, true product differentiation |
 
 ---
 
@@ -96,32 +90,12 @@ fun:
 
 ---
 
-## Random Dev Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=transparent" alt="Jokes Card" />
-
-</div>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*Activity block is optional — add [github-readme-activity-generator](https://github.com/crofis/github-readme-activity-generator) or [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) Action to populate.*
-
----
-
 ## Connect
 
+[![Falorin](https://img.shields.io/badge/Falorin-falorin.co-3ECF8E?style=flat)](https://www.falorin.co/)
 [![GitHub](https://img.shields.io/badge/GitHub-Frexxis-181717?style=flat&logo=github)](https://github.com/Frexxis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_HANDLE-1DA1F2?style=flat&logo=x)](https://x.com/YOUR_HANDLE)
 
-**Ask me anything** → [Open a Discussion](https://github.com/Frexxis/Frexxis/discussions) or [an Issue](https://github.com/Frexxis/Frexxis/issues)
+[Open a Discussion](https://github.com/Frexxis/Frexxis/discussions) · [Open an Issue](https://github.com/Frexxis/Frexxis/issues)
 
 ---
 
