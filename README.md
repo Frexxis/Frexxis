@@ -25,26 +25,92 @@
 
 ## About Me
 
-- 🏢 **Co-Founder** at [Falorin, Inc.](https://www.falorin.co/) — AI-native software company
-- 🏠 **Based in** Turkey 🇹🇷
-- 🔧 **Focus:** AI products, platform engineering, developer tools
-- 🚀 **Building:** Lookila, Nexite, Renov (all Falorin)
-- 💡 **Mission:** Democratize AI — let everyone create digital products
-- 💬 **Ask me about:** Python, TypeScript, Flutter, AI platforms, white-label SaaS
+- 🏢 **Co-Founder** at [Falorin, Inc.](https://www.falorin.co/) — AI-native software company (Delaware C-Corp)
+- 🏠 **Based in** Turkey 🇹🇷 · Operations run from Istanbul
+- 🔧 **Focus:** AI products, platform engineering, developer experience
+- 🚀 **Building:** Lookila, Nexite, Renov — all under Falorin
+- 💡 **Mission:** *"Democratize AI — let everyone create digital products."*
+- 🎯 **Vision:** Global leader in AI-native software development by 2030
+- 💬 **Ask me about:** Python, TypeScript, Flutter, AI platforms, white-label SaaS, multi-tenant architecture
 
 ---
 
-## Technologies & Tools
+## Falorin Values
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=CE422B)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Tools-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3ECF8E)
+| Value | What it means |
+|-------|---------------|
+| **Build Fast** | MVP → Test → Iterate. Speed over perfection. |
+| **User First** | Every decision asks: *"What value does this create for the user?"* |
+| **Data Driven** | Metrics over gut feel. A/B test, measure, learn. |
+| **Think Big** | Local isn’t enough. We aim global. |
+| **Stay Lean** | Avoid unnecessary complexity. Simple systems scale. |
+
+---
+
+## Falorin Products
+
+### [Lookila](https://www.falorin.co/) — AI Search Engine for Turkey
+
+Answer engine (Perplexity-style) built for Turkish users. No ad clutter, source-backed answers, academic-quality results.
+
+- **Status:** Public Beta
+- **Stack:** Next.js 15, TypeScript, Tailwind, Vercel AI SDK, Supabase, Upstash Redis
+- **Differentiator:** Turkish-first, local sources (Resmi Gazete, mevzuat), deep research mode
+
+### [Nexite](https://www.falorin.co/) — Design-First AI Dev Platform
+
+Browser-based full-stack AI development. Turn prompts into production-ready UI. *"The aesthetic form of code."*
+
+- **Status:** Private Beta
+- **Stack:** Remix, WebContainers, Vercel AI SDK, Electron (desktop)
+- **Differentiator:** Premium UI (glassmorphism, cyberpunk themes), SaaS/Dashboard templates, one-click deploy
+
+### Renov — White-Label App Platform
+
+Multi-tenant, BYOK (Bring Your Own Key), true product differentiation for each tenant.
+
+- **Stack:** Flutter, Next.js admin, Supabase, TypeScript
+- **Differentiator:** Policy-safe store distribution, tenant isolation, localization (TR/EN)
+
+---
+
+## My Favorite Tools
+
+<details>
+<summary><b>👨‍💻 Programming & Markup Languages</b></summary>
+<br/>
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Dart-02569B?style=flat&logo=dart&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧰 Frameworks & Libraries</b></summary>
+<br/>
+
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Infrastructure</b></summary>
+<br/>
+
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</details>
 
 ---
 
@@ -58,15 +124,14 @@
  learning: Rust, Flutter, AI agents
 ```
 
+**One day I hope to** — Build something that 1M+ people use daily without thinking about it.
+
 ---
 
-## Falorin Products
+## Quote
 
-| Product | What it is |
-|---------|------------|
-| [**Lookila**](https://www.falorin.co/) | AI search engine for Turkey — answer engine, Turkish-first, no ad clutter |
-| [**Nexite**](https://www.falorin.co/) | Design-first AI dev platform — browser-based, production-ready UI from prompts |
-| **Renov** | White-label mobile app platform — multi-tenant, BYOK, true product differentiation |
+> *"Democratize AI — let everyone create digital products."*  
+> — Falorin Mission
 
 ---
 
@@ -79,6 +144,10 @@
 <img src="https://streak-stats.demolab.com?user=Frexxis&theme=transparent&hide_border=true&mode=weekly" alt="Streak stats" width="400" />
 
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Frexxis&theme=flat&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophy" />
+</p>
 
 <details>
 <summary><b>📊 Full Metrics (optional — click to expand)</b></summary>
