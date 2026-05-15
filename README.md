@@ -5,65 +5,55 @@
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│  frexxis@github  ~  [session: building]                              │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠋⠉⠉⠉⠙⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀
-├──────────────────────────────────────────────────────────────────────┤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠁⠀⣠⣶⣿⣿⣶⣄⠀⠙⣦⡀⠀⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡟⠁⠀⠀⢰⣿⣿⣿⣿⣿⣿⡆⠀⠀⠹⣆⠀⠀⠀⠀⠀
-│  $ whoami                                                            │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡟⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠹⣆⠀⠀⠀⠀
-│  ┌──────────────────────────────────────────────────────────────┐    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⣀⣤⣤⣈⠛⠿⠿⠛⣁⣤⣤⣀⠀⠀⢻⡄⠀⠀⠀
-│  │  Muhammet Ali Adıyaman · Co-Founder @ Falorin, Inc.          │    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⢀⣾⣿⣿⣿⣿⣷⣄⣠⣾⣿⣿⣿⣿⣷⡀⠀⣿⠀⠀⠀
-│  │  AI-native products · platform engineering · developer UX    │    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⣿⠀⠀⠀
-│  │  Based in Turkey · shipping small, shipping often            │    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⢠⡟⠀⠀⠀
-│  └──────────────────────────────────────────────────────────────┘    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣆⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⣰⠟⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠈⠉⠛⠛⠉⠁⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀⠀
-│  $ cat falorin/products.yaml                                         │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣤⣀⡀⠀⠀⠀⠀⢀⣀⣤⣾⠟⠁⠀⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠿⠶⠶⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│  Lookila: Turkey-first AI answer engine                              │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀
-│  Nexite : design-first AI development platform                       │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀
-│  Renov  : white-label app platform                                   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
-│  $ cat stack.conf                                                    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀
-│  [languages]      Python · TypeScript · JavaScript · Rust · Dart     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀
-│  [frontend]       Next.js · Remix · React · Tailwind                 │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│  [mobile]         Flutter                                            │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│  [infra]          Supabase · PostgreSQL · Docker · Vercel            │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠿⠛⠛⠿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀
-│  [ai]             agents · search · SaaS platforms                   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⠟⠁⠀⠀⠀⠀⠈⠻⣿⣿⣷⠀⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡏⠀⠀⣴⣶⣶⣦⠀⠀⢹⣿⣿⡆⠀⠀⠀⠀⠀
-│  $ cat mission.txt                                                   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⣿⣿⣿⣿⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣧⠀⠀⠙⠿⠿⠋⠀⠀⣼⣿⣿⠃⠀⠀⠀⠀⠀
-│  Democratize AI - let everyone create digital products.              │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣷⣄⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀⠀⠀⠀
-│  Goal: build something 1M+ people use daily without thinking.         │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣶⣶⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀
-│                                                                      │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-│  $ _                                                                 │
-└──────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀
+│  frexxis@github  ~  [session: active]                         │⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠉⠛⢿⣿⣦⡀⠀⠀⠀⠀
+├──────────────────────────────────────────────────────────────┤⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⠋⠀⣠⣶⣶⣄⠀⠙⣿⣿⣄⠀⠀⠀
+│                                                              │⠀⠀⠀⠀⠀⠀⢰⣿⣿⠃⠀⣾⣿⣿⣿⣿⣷⠀⠘⣿⣿⡆⠀⠀
+│  $ whoami                                                    │⠀⠀⠀⠀⠀⠀⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⠀⠀
+│  ┌──────────────────────────────────────────────────────┐    │⠀⠀⠀⠀⠀⠀⣿⣿⡇⠀⠀⠻⣿⣿⣿⣿⠟⠀⠀⢸⣿⣿⠀⠀
+│  │  Muhammet Ali Adıyaman                               │    │⠀⠀⠀⠀⠀⠀⢿⣿⣧⠀⠀⠀⠈⠛⠛⠁⠀⠀⠀⣼⣿⡿⠀⠀
+│  │  Co-Founder @ Falorin, Inc.                          │    │⠀⠀⠀⠀⠀⠀⠘⢿⣿⣧⣀⠀⠀⠀⠀⠀⠀⣀⣼⣿⡿⠃⠀⠀
+│  │  AI-native products · platform engineering           │    │⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣷⣶⣤⣤⣶⣾⣿⠿⠋⠀⠀⠀⠀
+│  │  Turkey · ship small, ship often                     │    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀
+│  └──────────────────────────────────────────────────────┘    │⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣶⣿⣿⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠀
+│                                                              │⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀
+│  $ cat falorin/products.yaml                                 │⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀
+│                                                              │⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀
+│  Lookila: Turkey-first AI answer engine                      │⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
+│  Nexite : design-first AI dev platform                       │⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
+│  Renov  : white-label app platform                           │⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠻⢿⣿⣿⣿⣿⣿⣿⡿⠀
+│                                                              │⠀⠀⠀⠘⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⠃⠀
+│  $ cat stack.conf                                            │⠀⠀⠀⠀⠈⠻⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⠟⠀⠀
+│                                                              │⠀⠀⠀⠀⠀⠀⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠀⠀⠀
+│  [lang]      Python · TypeScript · Rust · Dart               │⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢀⣤⣤⡀⠀⠀⠀⢸⣿⠀⠀⠀
+│  [frontend]  Next.js · Remix · React · Tailwind              │⠀⠀⠀⠀⠀⠀⣿⣷⠀⠀⠀⠀⠈⠻⠟⠁⠀⠀⠀⣾⣿⠀⠀⠀
+│  [mobile]    Flutter                                         │⠀⠀⠀⠀⠀⠀⠘⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠃⠀⠀⠀
+│  [infra]     Supabase · PostgreSQL · Docker · Vercel         │⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣷⣤⣀⣀⣤⣾⣿⠟⠁⠀⠀⠀⠀
+│  [ai]        agents · search · SaaS platforms                │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                              │
+│  $ cat mission.txt                                           │
+│                                                              │
+│  Democratize AI - let everyone create digital products.      │
+│  Build products people use daily without thinking.           │
+│                                                              │
+│  $ _                                                         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ## Toolbelt
 
-<details open>
-<summary><b>Languages, frameworks and infrastructure</b></summary>
-<br/>
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Dart-02569B?style=flat&logo=dart&logoColor=white)
-
-![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-02569B?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
 
 ## Current Focus
 
@@ -100,10 +90,10 @@ operating_mode: MVP -> test -> measure -> iterate
 
 ## Connect
 
-[![Falorin](https://img.shields.io/badge/Falorin-falorin.co-3ECF8E?style=flat)](https://www.falorin.co/)
-[![GitHub](https://img.shields.io/badge/GitHub-Frexxis-181717?style=flat&logo=github)](https://github.com/Frexxis)
-
-[Open a Discussion](https://github.com/Frexxis/Frexxis/discussions) · [Open an Issue](https://github.com/Frexxis/Frexxis/issues)
+<p align="center">
+  <a href="https://www.falorin.co/"><img src="https://img.shields.io/badge/Falorin-falorin.co-3ECF8E?style=flat" /></a>
+  <a href="https://github.com/Frexxis"><img src="https://img.shields.io/badge/GitHub-Frexxis-181717?style=flat&logo=github" /></a>
+</p>
 
 ```text
 > thanks for stopping by
