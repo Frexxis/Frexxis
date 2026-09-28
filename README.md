@@ -46,8 +46,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Frexxis&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="GitHub stats" width="400" />
-
 <img src="https://streak-stats.demolab.com?user=Frexxis&theme=transparent&hide_border=true&mode=weekly" alt="Streak stats" width="400" />
 
 </div>
